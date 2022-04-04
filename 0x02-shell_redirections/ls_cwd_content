@@ -1,0 +1,13 @@
+total 17
+drwxr-xr-x 1 MYLAPTOP 197121  0 Apr  4 22:25 .
+drwxr-xr-x 1 MYLAPTOP 197121  0 Apr  4 20:58 ..
+-rwxr-xr-x 1 MYLAPTOP 197121 32 Apr  4 21:03 0-hello_world
+-rwxr-xr-x 1 MYLAPTOP 197121 28 Apr  4 21:12 1-confused_smiley
+-rwxr-xr-x 1 MYLAPTOP 197121 28 Apr  4 21:18 2-hellofile
+-rwxr-xr-x 1 MYLAPTOP 197121 40 Apr  4 21:29 3-twofiles
+-rwxr-xr-x 1 MYLAPTOP 197121 35 Apr  4 21:36 4-lastlines
+-rwxr-xr-x 1 MYLAPTOP 197121 35 Apr  4 21:49 5-firstlines
+-rwxr-xr-x 1 MYLAPTOP 197121 40 Apr  4 22:03 6-third_line
+-rwxr-xr-x 1 MYLAPTOP 197121 81 Apr  4 22:18 7-file
+-rwxr-xr-x 1 MYLAPTOP 197121 36 Apr  4 22:24 8-cwd_state
+-rw-r--r-- 1 MYLAPTOP 197121  0 Apr  4 22:25 ls_cwd_content

@@ -22,3 +22,7 @@ script that creates a file named \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
 20-hiago----------------------- That removes all letters c and C from input
 21-reverse--------------------Reverse its input
 22-users_and_homes---------------Displays all users and their home directories, sorted by users
+100-empty_casks----------------------------- It finds all empty files and directories in the current directory and all sub-directories
+101-gifs------------------------------------- Find files with a .gif extension in the current directory and all its sub-directories
+102-acrostic-----------------------------------Decodes acrostics that use the first letter of each line
+103-the_biggest_fan-----------------------------------Parses web servers in TSV format as input and displays the 11 hosts or IP addresses which did the most requests
